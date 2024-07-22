@@ -41,10 +41,14 @@ Proyek ini terdiri dari beberapa langkah untuk membangun dan melatih model yang 
 CNN merupakan jaringan saraf tiruan yang dirancang buat memproses foto. Jaringan ini terdiri dari lapisan- lapisan yang silih tersambung, di mana susunan awal mengetahui pola foto serta menciptakan peta fitur. Peta fitur tersebut setelah itu diolah lebih lanjut oleh lapisan- lapisan selanjutnya buat menciptakan prediksi akhir. CNN sangat sesuai buat bermacam tugas pengolahan foto, semacam klasifikasi foto, deteksi objek, serta segmentasi foto.
 
 
-Berikut penjelasan dari setiap langkahnya.
+
 
 ## Latar Belakang Masalah
 Pada zaman modern seperti sekarang ini, permainan tradisional mulai jarang dimainkan oleh anak-anak. Sebuah model klasifikasi gambar dapat memberi sensasi dan pengalaman baru, terutama bagi anak era 2000-an, meskipun ini hanyalah sebuah model pendeteksi dan klasifikasi gambar, tanpa ada permainan adu suit, hal ini cukup baik untuk bahan latihan dan belajar machine learning, khususnya bagi para pemula.
+
+
+Berikut penjelasan dari setiap langkahnya.
+
 
 ### 1. Impor Pustaka
 
