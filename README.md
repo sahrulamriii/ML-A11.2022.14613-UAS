@@ -7,6 +7,7 @@ Proyek ini mengimplementasikan model pembelajaran mesin untuk mengklasifikasikan
 <img src="image/Screenshot 2024-07-22 170136.png" align="center" alt="RockPaperScissors Image" width="800" height="425">
 
 <br/>
+
 ## Instalasi
 
 1. **Clone repositori:**
