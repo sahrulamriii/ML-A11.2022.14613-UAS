@@ -51,7 +51,13 @@ Proyek ini mengimplementasikan model pembelajaran mesin untuk mengklasifikasikan
 Proyek ini terdiri dari beberapa langkah untuk membangun dan melatih model yang mengklasifikasikan gambar batu, kertas, dan gunting. Untuk mengenali objek pada citra batu, kertas, dan gunting diperlukan langkah klasifikasi. Ada beberapa metode klasifikasi gambar yang populer untuk klasifikasi gambar, termasuk K Nearest Neighbors (KNN), Support Vector Machine (SVM), dan Deep Learning (DL). Salah satu metode yang cukup terkenal dalam pengklasifikasian gambar (imagge) adalah dengan menggunakan Convoluonal neural Network (CNN)
 CNN merupakan jaringan saraf tiruan yang dirancang buat memproses foto. Jaringan ini terdiri dari lapisan- lapisan yang silih tersambung, di mana susunan awal mengetahui pola foto serta menciptakan peta fitur. Peta fitur tersebut setelah itu diolah lebih lanjut oleh lapisan- lapisan selanjutnya buat menciptakan prediksi akhir. CNN sangat sesuai buat bermacam tugas pengolahan foto, semacam klasifikasi foto, deteksi objek, serta segmentasi foto.
 
+## Tujuan
+- Otomatisasi dan Hiburan: Sistem ini dapat digunakan dalam game atau aplikasi interaktif yang memerlukan deteksi gerakan atau objek, seperti permainan batu-gunting-kertas otomatis.
+- Pendidikan: Dapat digunakan sebagai alat bantu pengajaran dalam kelas untuk mengajarkan konsep dasar machine learning dan computer vision kepada siswa.
 
+## Tahapan
+
+<img src="image/Picture1.png" align="center" alt="RockPaperScissors Image" width="800" height="325">
 
 
 ## Latar Belakang Masalah
