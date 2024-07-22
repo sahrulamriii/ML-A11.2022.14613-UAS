@@ -5,8 +5,20 @@ Proyek ini mengimplementasikan model pembelajaran mesin untuk mengklasifikasikan
 
 ## Dokumentasi
 <img src="image/Screenshot 2024-07-22 170136.png" align="center" alt="RockPaperScissors Image" width="800" height="425">
-
 <br/>
+
+**Grafik Training & Validation Loss**
+
+
+<img src="image/grafik.png" align="center" alt="RockPaperScissors Image" width="800" height="425">
+<br/>
+
+
+**Hasil**
+
+
+<img src="image/hasil.png" align="center" alt="RockPaperScissors Image" width="350" height="300">
+
 
 ## Instalasi
 
