@@ -57,7 +57,7 @@ CNN merupakan jaringan saraf tiruan yang dirancang buat memproses foto. Jaringan
 
 ## Tahapan
 
-<img src="image/Picture1.png" align="center" alt="RockPaperScissors Image" width="800" height="325">
+<img src="image/Picture1.png" align="center" alt="RockPaperScissors Image" width="800" height="250">
 
 
 ## Latar Belakang Masalah
