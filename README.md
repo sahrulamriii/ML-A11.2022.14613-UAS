@@ -1,4 +1,15 @@
+
+NAMA : SAHRUL AMRI
+
+
+NIM : A11.2022.14613
+
+
+KELOMPOK : A11.4419
+
+
 # Proyek Machine Learning RockPaperScissors
+
 
 Proyek ini mengimplementasikan model pembelajaran mesin untuk mengklasifikasikan gambar batu, kertas, dan gunting menggunakan TensorFlow dan Keras. <br/>
 
