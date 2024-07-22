@@ -91,6 +91,11 @@ TensorFlow. Program ini harus mampu mengenali bentuk tangan yang membentuk gunti
 menggunakan dataset tersebut yang di nantinya terdiri dari data training memiliki 1314 sampel, dan data validasi
 sebanyak 874 sampel. Didalam datasets tersebut terdapat 3 atribut data.
 
+**Link Datasets**
+https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip
+
+File datasets berukuran besar sehingga tidak dapat diupload melalui github, untuk mengunduhnya bisa melalui link diatas
+
 ```python
 #3. Persiapan Data
 
