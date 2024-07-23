@@ -8,7 +8,7 @@ NIM : A11.2022.14613
 KELOMPOK : A11.4419
 
 
-# Proyek Machine Learning RockPaperScissors
+# Proyek Machine Learning Klasifikasi Gambar Dengan Model CNN Untuk Mengenali gambar Batu, Gunting,  Kertas
 
 
 Proyek ini mengimplementasikan model pembelajaran mesin untuk mengklasifikasikan gambar batu, kertas, dan gunting menggunakan TensorFlow dan Keras. <br/>
@@ -305,6 +305,9 @@ Blok kode tersebut berfungsi untuk mendefinisikan fungsi predict_image untuk mem
       - `rock/`
       - `paper/`
       - `scissors/`
+      
+  ## Diskusi Hasil & Kesimpulan
+Hasil  dari pembuatan model Machine Learning yang dilakukan, dapat dihasilkan model yang memiliki akurasi diatas 85%, Ukuran validation set harus 40% dari total dataset (data training memiliki 1314 sampel, dan data validasi sebanyak 874 sampel) dengan epoch sebanyak 20. Model tersebut menggunakan model sequensial dan image data generator, yang mengimplementasikan augmentasi gambar. Nantinya, setelah program selesai dieksekusi, user dapat memasukkan gambar batu, gunting, ataupun kertas.
   
 ## Kontribusi
 Kontribusi sangat diterima. Silakan buka issue atau kirim pull request.
