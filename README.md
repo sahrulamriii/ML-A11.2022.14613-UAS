@@ -63,6 +63,11 @@ CNN merupakan jaringan saraf tiruan yang dirancang buat memproses foto. Jaringan
 ## Latar Belakang Masalah
 Pada zaman modern seperti sekarang ini, permainan tradisional mulai jarang dimainkan oleh anak-anak. Sebuah model klasifikasi gambar dapat memberi sensasi dan pengalaman baru, terutama bagi anak era 2000-an, meskipun ini hanyalah sebuah model pendeteksi dan klasifikasi gambar, tanpa ada permainan adu suit, hal ini cukup baik untuk bahan latihan dan belajar machine learning, khususnya bagi para pemula.
 
+## Permasalahan
+
+
+Melalui percobaan image classification untuk mendeteksi batu, gunting, dan kertas, kita dapat menyelesaikan berbagai masalah praktis yang berkaitan dengan interaksi pengguna, pengenalan gerakan, pendidikan AI, pengembangan algoritma, serta validasi dan optimasi model. Hasil dari percobaan ini tidak hanya relevan untuk aplikasi spesifik tetapi juga dapat diaplikasikan pada berbagai domain lain yang memerlukan teknologi pengenalan gambar dan gerakan.
+
 
 Berikut penjelasan dari setiap langkahnya.
 
